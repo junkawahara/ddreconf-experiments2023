@@ -5,8 +5,6 @@ The ZDD-based solver is available at [the repository](https://github.com/junkawa
 
 The program provided by @telematik-tuhh (referred to as "recon" in the paper) is located at [the repository](https://github.com/core-challenge/2022solver-showcase/tree/main/telematik-tuhh).
 
-The script for running the experiments in the paper will be published soon.
-
 ## Usage
 
 ```
