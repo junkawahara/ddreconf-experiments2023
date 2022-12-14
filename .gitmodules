@@ -1,0 +1,6 @@
+[submodule "ddreconf"]
+	path = ddreconf
+	url = https://github.com/junkawahara/ddreconf.git
+[submodule "2022benchmark"]
+	path = 2022benchmark
+	url = https://github.com/core-challenge/2022benchmark.git
