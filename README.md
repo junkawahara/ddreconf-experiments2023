@@ -9,7 +9,7 @@ The program provided by @telematik-tuhh (referred to as "recon" in the paper) is
 
 ```
 git clone --recursive https://github.com/junkawahara/ddreconf-experiments2023.git
-cd ddreconf-experiments2023/reconf
+cd ddreconf-experiments2023/ddreconf
 make
 cd ..
 python3 run.py
