@@ -4,3 +4,6 @@
 [submodule "2022benchmark"]
 	path = 2022benchmark
 	url = https://github.com/core-challenge/2022benchmark.git
+[submodule "ndscut"]
+	path = ndscut
+	url = https://github.com/junkawahara/ndscut.git
